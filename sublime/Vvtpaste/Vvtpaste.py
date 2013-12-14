@@ -13,7 +13,7 @@ class VvtpasteCommand(sublime_plugin.TextCommand):
 
 		headers = {}
 		headers['Content-Type'] = 'application/json'
-		req = urllib.urlopen("http://vvt.nu/api/pastebin.json", data, headers)
+		req = urllib.urlopen("https://vvt.nu/api/pastebin.json", data, headers)
 		response = req.read()
 
 		if not re.match("http", response):

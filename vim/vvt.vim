@@ -54,7 +54,7 @@ endif
 function! VVT(line1, line2)
     let content = join(getline(a:line1, a:line2), "\n")
     let data = printf('{ "code" : "%s", "hidden" : "%d" }',s:JSONEncode(content),1)
-    let url = s:post('http://vvt.nu/api/pastebin.json', data)
+    let url = s:post('https://vvt.nu/api/pastebin.json', data)
     call s:finished(url)
 endfunction
 
