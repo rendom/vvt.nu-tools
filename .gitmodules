@@ -1,0 +1,9 @@
+[submodule "vvt.nu-vim"]
+	path = vvt.nu-vim
+	url = https://github.com/rendom/vvt.nu-vim
+[submodule "vvt.nu-sublime"]
+	path = vvt.nu-sublime
+	url = https://github.com/rendom/vvt.nu-sublime
+[submodule "vvt.nu-cli"]
+	path = vvt.nu-cli
+	url = https://github.com/rendom/vvt.nu-cli
