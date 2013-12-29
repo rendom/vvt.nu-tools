@@ -1,8 +1,8 @@
 vvt.nu-tools
 ============
 
-[https://github.com/rendom/vvt.nu-vim Vim plugin]
+[Vim plugin](https://github.com/rendom/vvt.nu-vim )
 
-[https://github.com/rendom/vvt.nu-sublime Sublime text plugin]
+[Sublime text plugin](https://github.com/rendom/vvt.nu-sublime)
 
-[https://github.com/rendom/vvt.nu-cli CLI, Paste from terminal]
+[CLI, Paste from terminal](https://github.com/rendom/vvt.nu-cli )
