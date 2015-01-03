@@ -5,4 +5,4 @@ vvt.nu-tools
 
 [Sublime text plugin](https://github.com/rendom/vvt.nu-sublime)
 
-[CLI, Paste from terminal](https://github.com/rendom/vvt.nu-cli )
+[Command-line tool](https://github.com/rendom/vvt-cli )
